@@ -11,6 +11,8 @@ import javax.swing.*;
 	        JLabel LabelMalabiga3 = new JLabel("USERNAME");
 
 	        JLabel LabelPassMalabiga = new JLabel("PASSWORD");
+	        JLabel LabelPassMalabiga3 = new JLabel("PASSWORD");
+
 	        JTextField TextPassMalabiga = new JTextField(20);
 	        
 
